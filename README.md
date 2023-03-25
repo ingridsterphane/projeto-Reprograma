@@ -7,3 +7,7 @@
 <hr />
 
 - Desafio prático realizado para turma 23 da Reprograma.
+
+## Mudanças Realizadas
+ <br />
+  
