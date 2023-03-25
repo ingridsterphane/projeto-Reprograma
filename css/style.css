@@ -78,14 +78,14 @@ body {
 }
 
 .instagram-login {
-    background-color: #0095f6;
+    background-color:#6D3F8C;
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
 }
 
 .instagram-logout {
-    color: #0095f6;
+    color: #6D3F8C;
     margin-top: 1rem;
 }
 
@@ -94,7 +94,7 @@ body {
 }
 
 .link-blue {
-    color: #0095f6;
+    color: #6D3F8C;
 }
 
 .get-the-app {
@@ -121,7 +121,7 @@ body {
 }
 
 .button {
-    height: 36px;
+    height: 38px;  
     
 }
 
